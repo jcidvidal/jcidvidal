@@ -1,7 +1,7 @@
 # ¡Hola! Soy Juan Pablo Cid Vidal 👋
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Estudiante-Ingeniería_Civil_Informática-blue?style=for-the-badge&logo=univeristy" />
+  <img src="https://img.shields.io/badge/Estudiante-Ingenierí_Informática-blue?style=for-the-badge&logo=univeristy" />
   <img src="https://img.shields.io/badge/Location-Temuco,_Chile-red?style=for-the-badge&logo=google-maps&logoColor=white" />
 </p>
 
