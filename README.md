@@ -44,12 +44,13 @@ Soy un apasionado por la **Arquitectura de Software** y el desarrollo Fullstack.
 
 ---
 
+
+
 ### 📈 Mis Estadísticas de GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jcidvidal&show_icons=true&theme=tokyonight&count_private=true" alt="Estadísticas de jcidvidal" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jcidvidal&layout=compact&theme=tokyonight" alt="Lenguajes más usados" />
+  <img src="https://github-readme-stats.vercel.app/api?username=jcidvidal&show_icons=true&theme=tokyonight&count_private=true" alt="Estadísticas de jcidvidal" width="400" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jcidvidal&layout=compact&theme=tokyonight" alt="Lenguajes más usados" width="300" />
 </p>
 
 ---
