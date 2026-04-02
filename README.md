@@ -26,19 +26,11 @@ Soy un apasionado por la **Arquitectura de Software** y el desarrollo Fullstack.
 | **DevOps** | `Docker`, `Git`, `GitHub Actions` |
 | **Liderazgo** | `Vicepresidente Centro de Estudiantes`, `Consultoría Técnica` |
 
----
-
-### 📈 Mi Actividad en GitHub
-
-<p align="center">
- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jcidvidal)](https://github.com/jcidvidal/github-readme-stats)
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jcidvidal&layout=compact&theme=tokyonight" alt="Lenguajes más usados" width="42%" />
-</p>
 
 ---
 
 ### 📫 Conectemos
 * **LinkedIn:** [in/juanpablocid](https://www.linkedin.com/in/juanpablocid)
-* **Discord:** `jcidvidal`
+* **Correo:** `cidjuanpablo820@gmail.com`
 
 _"Construyendo hoy la arquitectura del mañana."_
