@@ -21,7 +21,7 @@ Soy un apasionado por la **Arquitectura de Software** y el desarrollo Fullstack.
 
 | Categoría | Tecnologías |
 | :--- | :--- |
-| **Backend** | `Java (Spring Boot)`, `Node.js`, `Python` |
+| **Backend** | `Java (Spring Boot)`, `Node.js`, `Typescript(Nest.js)` |
 | **Frontend** | `Astro`, `TypeScript`, `JavaScript`, `TailwindCSS` |
 | **DevOps** | `Docker`, `Git`, `GitHub Actions` |
 | **Liderazgo** | `Vicepresidente Centro de Estudiantes`, `Consultoría Técnica` |
@@ -31,7 +31,7 @@ Soy un apasionado por la **Arquitectura de Software** y el desarrollo Fullstack.
 ### 📈 Mi Actividad en GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jcidvidal&show_icons=true&theme=tokyonight&count_private=true" alt="Estadísticas de jcidvidal" width="48%" />
+ [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jcidvidal)](https://github.com/jcidvidal/github-readme-stats)
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jcidvidal&layout=compact&theme=tokyonight" alt="Lenguajes más usados" width="42%" />
 </p>
 
