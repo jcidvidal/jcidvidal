@@ -27,7 +27,14 @@ Soy un apasionado por la **Arquitectura de Software** y el desarrollo Fullstack.
 | **Gestión / Agilidad** | `Scrum`, `GitHub Projects`, `Kanban`, `Trello`, `Gantt` |
 | **Liderazgo** | `Vicepresidente Centro de Estudiantes`, `Liderazgo de equipos con metodologías ágiles (Scrum)`, `Consultoría Técnica` |
 
+---
+### 📊 Estadísticas de GitHub
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=jcidvidal&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Estadísticas de Juan Pablo" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jcidvidal&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Lenguajes más usados" />
+</p>
 ---
 
 ### 📫 Conectemos
