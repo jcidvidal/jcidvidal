@@ -35,19 +35,17 @@ Soy un apasionado por la **Arquitectura de Software** y el desarrollo Fullstack.
   <table align="center">
     <tr border="none">
       <td width="50%" align="center">
-        <img align="center" src="https://github-readme-stats.vercel.app/api?username=jcidvidal&theme=tokyonight&show_icons=true&count_private=true" />
+        <img align="center" src="https://github-readme-stats-eight-theta.vercel.app/api?username=jcidvidal&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
         <br></br>
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=jcidvidal&theme=tokyonight&hide_border=false" /> 
+        <img title="🔥 Streak Stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=jcidvidal&theme=tokyonight&hide_border=false" /> 
       </td>
       <td width="50%" align="center">
-        <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jcidvidal&theme=tokyonight&hide_border=false&layout=compact&langs_count=10"/>
+        <img align="center" src="https://metrics.lecoq.io/jcidvidal?template=classic&base=0&languages=1&languages.limit=8&languages.compact=1&config.theme=tokyonight&config.timezone=America/Santiago" />
       </td>
     </tr>
   </table>
   <div align="center">
-    <a href="https://github.com/ryo-ma/github-profile-trophy" title="Go to Source">
       <img align="center" width="84%" src="https://github-profile-trophy.vercel.app/?username=jcidvidal&theme=radical&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" />
-    </a>
   </div>
   </p>
 ---
