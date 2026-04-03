@@ -25,7 +25,7 @@ Soy un apasionado por la **Arquitectura de Software** y el desarrollo Fullstack.
 | **Frontend** | `Astro`, `Vue`, `React`, `TypeScript`, `JavaScript`, `TailwindCSS` |
 | **DevOps** | `Docker`, `Git`, `GitHub Actions` |
 | **Gestión / Agilidad** | `Scrum`, `GitHub Projects`, `Kanban`, `Trello`, `Gantt` |
-| **Liderazgo** | `Vicepresidente Centro de Estudiantes`, `Liderazgo de equipos con metodologías ágiles (Scrum)"`, `Consultoría Técnica` |
+| **Liderazgo** | `Vicepresidente Centro de Estudiantes`, `Liderazgo de equipos con metodologías ágiles (Scrum)`, `Consultoría Técnica` |
 
 
 ---
