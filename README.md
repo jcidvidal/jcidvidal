@@ -24,7 +24,7 @@ Soy un apasionado por la **Arquitectura de Software** y el desarrollo Fullstack.
 | **Backend** | `Java (Spring Boot)`, `Node.js`, `Typescript(Nest.js)` |
 | **Frontend** | `Astro`, `TypeScript`, `JavaScript`, `TailwindCSS` |
 | **DevOps** | `Docker`, `Git`, `GitHub Actions` |
-| **Gestión / Agilidad** | `Scrum`, `Kanban`, `Trello`, `Gantt` |
+| **Gestión / Agilidad** | `Scrum`, `GitHub Projects`, `Kanban`, `Trello`, `Gantt` |
 | **Liderazgo** | `Vicepresidente Centro de Estudiantes`, `Liderazgo de equipos con metodologías ágiles (Scrum)"`, `Consultoría Técnica` |
 
 
