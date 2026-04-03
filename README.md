@@ -30,7 +30,6 @@ Soy un apasionado por la **Arquitectura de Software** y el desarrollo Fullstack.
 ---
 
 ### 📊 Estadísticas de GitHub
-
 <p align="center">
   <table align="center">
     <tr border="none">
@@ -40,14 +39,15 @@ Soy un apasionado por la **Arquitectura de Software** y el desarrollo Fullstack.
         <img title="🔥 Streak Stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=jcidvidal&theme=tokyonight&hide_border=false" /> 
       </td>
       <td width="50%" align="center">
-        <img align="center" src="https://metrics.lecoq.io/jcidvidal?template=classic&base=0&languages=1&languages.limit=8&languages.compact=1&config.theme=tokyonight&config.timezone=America/Santiago" />
+        <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jcidvidal&theme=tokyonight&hide_border=true&layout=compact&langs_count=8" />
       </td>
     </tr>
   </table>
   <div align="center">
-      <img align="center" width="84%" src="https://github-profile-trophy.vercel.app/?username=jcidvidal&theme=radical&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" />
+    <img align="center" width="84%" src="https://github-profile-trophy.vercel.app/?username=jcidvidal&theme=tokyonight&row=1&column=7&no-bg=true" alt="TROPHY" />
   </div>
   </p>
+
 ---
 
 ### 📫 Conectemos
