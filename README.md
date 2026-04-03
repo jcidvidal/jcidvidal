@@ -29,13 +29,10 @@ Soy un apasionado por la **Arquitectura de Software** y el desarrollo Fullstack.
 
 ---
 
-
 ### 📊 Estadísticas de GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api?username=jcidvidal&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&v=1" alt="Estadísticas de Juan Pablo" />
-  <br/>
-  <img src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api/top-langs/?username=jcidvidal&layout=compact&theme=tokyonight&hide_border=true&langs_count=6&v=1" alt="Lenguajes más usados" />
+  <img src="https://metrics.lecoq.io/jcidvidal?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&languages=1&languages.limit=8&languages.colors=github&config.timezone=America/Santiago" />
 </p>
 ---
 
