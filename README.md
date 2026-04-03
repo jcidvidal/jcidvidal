@@ -39,12 +39,12 @@ Soy un apasionado por la **Arquitectura de Software** y el desarrollo Fullstack.
         <img title="🔥 Streak Stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=jcidvidal&theme=tokyonight&hide_border=false" /> 
       </td>
       <td width="50%" align="center">
-        <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jcidvidal&theme=tokyonight&hide_border=true&layout=compact&langs_count=8" />
+        <img align="center" src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api/top-langs/?username=jcidvidal&theme=tokyonight&hide_border=true&layout=compact&langs_count=8&v=2" />
       </td>
     </tr>
   </table>
   <div align="center">
-    <img align="center" width="84%" src="https://github-profile-trophy.vercel.app/?username=jcidvidal&theme=tokyonight&row=1&column=7&no-bg=true" alt="TROPHY" />
+    <img align="center" width="84%" src="https://github-profile-trophy.vercel.app/?username=jcidvidal&theme=tokyonight&row=1&column=7&no-bg=true&v=2" alt="TROPHY" />
   </div>
   </p>
 
