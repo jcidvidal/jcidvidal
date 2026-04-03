@@ -31,7 +31,7 @@ Soy un apasionado por la **Arquitectura de Software** y el desarrollo Fullstack.
 ---
 
 ### 📫 Conectemos
-* **LinkedIn:** [in/juan-pablo-cid](www.linkedin.com/in/juan-pablo-cid)
+* **LinkedIn:** [in/juan-pablo-cid](https://www.linkedin.com/in/juan-pablo-cid)
 * **Correo:** `cidjuanpablo820@gmail.com`
 
 _"Construyendo hoy la arquitectura del mañana."_
