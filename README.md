@@ -45,9 +45,9 @@ Soy un apasionado por la **Arquitectura de Software** y el desarrollo Fullstack.
       </td>
     </tr>
   </table>
- <div align="center">
-    <img align="center" width="85%" src="https://github-profile-trophy.vercel.app/?username=jcidvidal&theme=tokyonight&row=1&column=7&no-bg=true&v=300" alt="TROPHY" />
-  </div>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=jcidvidal&color=blueviolet&style=flat-square&label=PERFIL+VISITADO" alt="jcidvidal" />
+</p>
   </p>
 
 ---
