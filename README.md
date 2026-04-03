@@ -30,7 +30,7 @@ Soy un apasionado por la **Arquitectura de Software** y el desarrollo Fullstack.
 ---
 
 ### 📫 Conectemos
-* **LinkedIn:** [in/juanpablocid](https://www.linkedin.com/in/juanpablocid)
+* **LinkedIn:** [in/juanpablocid](www.linkedin.com/in/juan-pablo-benjamin-cid-vidal)
 * **Correo:** `cidjuanpablo820@gmail.com`
 
 _"Construyendo hoy la arquitectura del mañana."_
