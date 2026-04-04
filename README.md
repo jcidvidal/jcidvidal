@@ -5,7 +5,7 @@
   <img src="https://img.shields.io/badge/Location-Temuco,_Chile-red?style=for-the-badge&logo=google-maps&logoColor=white" />
 </p>
 
-Soy un apasionado por la **Arquitectura de Software** y el desarrollo Fullstack. Actualmente curso Ingeniería  Informática en la **Universidad de La Frontera (UFRO)**. Mi enfoque está en construir sistemas escalables, eficientes y con una arquitectura limpia.
+Soy un apasionado por el desarrollo Fullstack. Actualmente curso Ingeniería  Informática en la **Universidad de La Frontera (UFRO)**. Mi enfoque está en construir sistemas escalables, eficientes y con una arquitectura limpia.
 
 ---
 
